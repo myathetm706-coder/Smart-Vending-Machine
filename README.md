@@ -1,5 +1,4 @@
 # Smart-Vending-Machine
-# Smart-Vending-Machine
 # VENDORA — Smart Vending Machine
 ### Embedded Systems · IoT · Web-Based Interface · Automated Dispensing
 
